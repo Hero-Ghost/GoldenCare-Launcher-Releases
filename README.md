@@ -18,7 +18,7 @@
 
 ## הורדה והתקנה
 
-1. הורידו את קובץ ההתקנה: **[GoldenCareLauncher.apk](https://raw.githubusercontent.com/yakir054616-creator/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk)**
+1. הורידו את קובץ ההתקנה: **[GoldenCareLauncher.apk](https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk)**
 2. פתחו את הקובץ במכשיר. אם תתבקשו, אשרו התקנה ממקורות לא ידועים עבור הדפדפן או מנהל הקבצים.
 3. בסיום ההתקנה, הגדירו את GoldenCare Launcher כמסך הבית של המכשיר.
 
