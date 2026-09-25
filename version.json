@@ -1,9 +1,9 @@
 {
-  "version_code": 12,
-  "version_name": "1.2.0",
+  "version_code": 13,
+  "version_name": "1.2.1",
   "apk_url": "https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk",
-  "apk_sha256": "3a757c8cd22b0433b3d254d6cc65221b67cf5f9b9bdcf6244f4180832b31f352",
-  "release_notes": "תמיכה במערכי מצלמות מרובי עדשות וזיהוי עדשת טלפוטו/זום, מעבר אוטומטי לעדשת טלפוטו בלחיצה על זום או החלפת עדשה במכשירים תומכים.",
+  "apk_sha256": "f8e8af32e02c065270d2d62e4d7b0254143f11383cb4647fe0ab383eafcbd316",
+  "release_notes": "תיקון זווית הצילום הרחבה (1x מלא ללא זום מלאכותי בשיאומי) באמצעות מעבר ל-FIT_CENTER, המציג 100% משדה הראייה המלא של המצלמה בדיוק כמו באפליקציה המקורית.",
   "is_killed": false,
   "kill_message": "התוכנה נחסמה על ידי המפתח, תודה רבה למי שהשתמש"
 }
