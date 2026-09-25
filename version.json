@@ -1,8 +1,8 @@
 {
-  "version_code": 3,
-  "version_name": "1.1.1",
+  "version_code": 4,
+  "version_name": "1.1.2",
   "apk_url": "https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk",
-  "release_notes": "כפתור להשתקת/ביטול השתקת לוח המקשים בהגדרות, שיחות אחרונות במסך הבית, לשונית הודעות בחייגן",
-  "is_killed":false ,
+  "release_notes": "עדכון אוטומטי מלא ברקע ללא צורך בכפתורים, שמירת קובץ ההתקנה ללא הורדה כפולה, והתקנה אוטומטית מיד לאחר אישור ההרשאה",
+  "is_killed": false,
   "kill_message": "התוכנה נחסמה על ידי המפתח, תודה רבה למי שהשתמש"
 }
