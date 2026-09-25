@@ -1,9 +1,9 @@
 {
-  "version_code": 7,
-  "version_name": "1.1.5",
+  "version_code": 8,
+  "version_name": "1.1.6",
   "apk_url": "https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk",
-  "apk_sha256": "8ad6130a7e4c0502164c1be646f02dfcc7545eaead7f7d9475d11964340a3559",
-  "release_notes": "שחזור ושדרוג חסימה מהירה של וילון ההתראות במשיכה, תיקון כפתורי ברירת מחדל בהגדרות (חייגן, הודעות, מסך בית) עם אפשרות בחירה חופשית",
+  "apk_sha256": "158ec312b0b53709b609ef1991477c09cc9c9cf98e077ab1000f9e0e9ecc14bf",
+  "release_notes": "התאמות מלאות למכשירי שיאומי (Xiaomi / Redmi / POCO) ומכשירי מחוות: כפתור ישיר להגדרת לחצני ניווט (חזרה ובית סגנון סמסונג), הפעלה אוטומטית (Autostart), מניעת הרדמה בסוללה, הרשאות חלונות קופצים לשיחות נכנסות ושיפור חסימת וילון ההתראות.",
   "is_killed": false,
   "kill_message": "התוכנה נחסמה על ידי המפתח, תודה רבה למי שהשתמש"
 }
