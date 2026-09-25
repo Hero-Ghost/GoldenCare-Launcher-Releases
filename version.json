@@ -1,9 +1,9 @@
 {
-  "version_code": 11,
-  "version_name": "1.1.9",
+  "version_code": 12,
+  "version_name": "1.2.0",
   "apk_url": "https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk",
-  "apk_sha256": "d888202820086b92003cc1697d2cfd47423c902c2b278abd212fba97040dfe79",
-  "release_notes": "תיקון קריסת המצלמה במכשירים מרובי עדשות, עיצוב מחדש והקטנת כפתורי המצלמה כך שאינם חוסמים את התצוגה, ושיפור יציבות.",
+  "apk_sha256": "3a757c8cd22b0433b3d254d6cc65221b67cf5f9b9bdcf6244f4180832b31f352",
+  "release_notes": "תמיכה במערכי מצלמות מרובי עדשות וזיהוי עדשת טלפוטו/זום, מעבר אוטומטי לעדשת טלפוטו בלחיצה על זום או החלפת עדשה במכשירים תומכים.",
   "is_killed": false,
   "kill_message": "התוכנה נחסמה על ידי המפתח, תודה רבה למי שהשתמש"
 }
