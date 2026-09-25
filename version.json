@@ -1,9 +1,9 @@
 {
-  "version_code": 9,
-  "version_name": "1.1.7",
+  "version_code": 10,
+  "version_name": "1.1.8",
   "apk_url": "https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk",
-  "apk_sha256": "4e688871808c2e2393ca0a23df49aea9b652885ed0af46ef6eded010da8c3136",
-  "release_notes": "אשף הגדרת מכשיר חכם (Device Setup Wizard) מותאם אישית לשיאומי/סמסונג/אנדרואיד: הדרכה ברורה צעד אחר צעד למעבר ל-3 כפתורים, הגדרת לאנצ'ר ברירת מחדל, חסימת וילון והרשאות רקע, ושיפור חסימת וילון ההתראות בשיאומי.",
+  "apk_sha256": "f5913f2a0b6a0389aab88e3aee58f341106ecde207fcf535e58ad21d5b8aadf7",
+  "release_notes": "ממשק מצלמה נגיש חדש (כפתור חזרה ענק, מתג תמונה/וידאו, זום 1x/2x/3x, תמונה ממוזערת לגלריה), תיקון חיישן קרבה בשיחות, כפתורי חזרה ואנשי קשר מוגדלים, התאמות למסך הבית ורשת תגובות מהירות להודעות SMS.",
   "is_killed": false,
   "kill_message": "התוכנה נחסמה על ידי המפתח, תודה רבה למי שהשתמש"
 }
