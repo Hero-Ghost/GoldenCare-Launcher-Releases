@@ -1,9 +1,9 @@
 {
-  "version_code": 10,
-  "version_name": "1.1.8",
+  "version_code": 11,
+  "version_name": "1.1.9",
   "apk_url": "https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk",
-  "apk_sha256": "f5913f2a0b6a0389aab88e3aee58f341106ecde207fcf535e58ad21d5b8aadf7",
-  "release_notes": "ממשק מצלמה נגיש חדש (כפתור חזרה ענק, מתג תמונה/וידאו, זום 1x/2x/3x, תמונה ממוזערת לגלריה), תיקון חיישן קרבה בשיחות, כפתורי חזרה ואנשי קשר מוגדלים, התאמות למסך הבית ורשת תגובות מהירות להודעות SMS.",
+  "apk_sha256": "d888202820086b92003cc1697d2cfd47423c902c2b278abd212fba97040dfe79",
+  "release_notes": "תיקון קריסת המצלמה במכשירים מרובי עדשות, עיצוב מחדש והקטנת כפתורי המצלמה כך שאינם חוסמים את התצוגה, ושיפור יציבות.",
   "is_killed": false,
   "kill_message": "התוכנה נחסמה על ידי המפתח, תודה רבה למי שהשתמש"
 }
