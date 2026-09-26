@@ -1,9 +1,13 @@
 {
-  "version_code": 17,
-  "version_name": "1.2.5",
+  "version_code": 18,
+  "version_name": "1.3.0",
   "apk_url": "https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk",
-  "apk_sha256": "9b87063c3024802e6ca230d8d7664127df9ce550a0fb0a72650065f035d0bb53",
-  "release_notes": "תמיכה מלאה בריבוי שפות (עברית, רוסית ואנגלית) עם בורר שפה בהפעלה ראשונה ובהגדרות, התאמת כיוון ממשק (RTL/LTR), והקראת ספרות בשפה הנבחרת.",
+  "apk_sha256": "ff02e0d5b775526c0c044a9c5c985949ca9325635e82d4e6ab499b7c98fb8e5f",
+  "release_notes": "הוספת תשתית מנוי ורישיון מובנית (כרגע חינם לכולם), קוד מנהל מאסטר קבוע וקוד ברירת מחדל אחיד (9999), חתימת Release קבועה ושיפורי יציבות ואבטחה.",
   "is_killed": false,
-  "kill_message": "התוכנה נחסמה על ידי המפתח, תודה רבה למי שהשתמש"
+  "kill_message": "התוכנה נחסמה על ידי המפתח, תודה רבה למי שהשתמש",
+  "licensing": {
+    "payload": "eyJ2IjoxLCJzZXEiOjE3OTA0MjM4NTIxODksIm1vZGUiOiJmcmVlIiwicGFpZF9mcm9tIjowLCJ0cmlhbF9kYXlzIjoxNCwibGVhc2Vfd2Fybl9kYXlzIjozMCwibGVhc2VfbG9ja19kYXlzIjo2MCwicHVyY2hhc2VfdXJsIjoiIiwibGljZW5zZV9hcGkiOiIiLCJtZXNzYWdlIjp7ImhlIjoiIiwiZW4iOiIiLCJydSI6IiJ9fQ",
+    "sig": "kjt7PWwGTgemFmO8M-vB6Ob9_8XjTPJJJUv1bcWhu71qWBcRoexuj9MAZlmrgVlTd3edvjlBvi-iAdBnNvR0zA"
+  }
 }
