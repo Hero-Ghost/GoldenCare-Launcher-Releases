@@ -2,6 +2,9 @@
 
 # GoldenCare Launcher — ערוץ הפצה, הורדות ומדריך הגדרה מקיף 📱
 
+[![גרסה אחרונה](https://img.shields.io/github/v/release/Hero-Ghost/GoldenCare-Launcher-Releases?color=blue&label=%D7%92%D7%A8%D7%A1%D7%94)](https://github.com/Hero-Ghost/GoldenCare-Launcher-Releases/releases/latest)
+[![הורדות](https://img.shields.io/github/downloads/Hero-Ghost/GoldenCare-Launcher-Releases/total?color=success&label=%D7%A1%D7%94%22%D7%9B%20%D7%94%D7%95%D7%A8%D7%93%D7%95%D7%AA)](https://github.com/Hero-Ghost/GoldenCare-Launcher-Releases/releases)
+
 ברוכים הבאים לערוץ ההפצה הרשמי של **GoldenCare Launcher** — לאנצ'ר ומסך בית לאנדרואיד שנבנה מתוך מחשבה עמוקה והנגשה ופשטות מקסימלית עבור המשתמש.
 
 הלאנצ'ר מעניק ממשק נקי, גופנים ענקיים, עברית מלאה (RTL), לחצן מצוקה (SOS) אמין, חייגן ייעודי, מצלמה מונגשת וחסימה הרמטית מפני יציאה לא רצויה או שינוי הגדרות בטעות.
@@ -31,7 +34,7 @@
 | **סטטוס שחרור** | רשמי, יציב ונבדק בשטח (Production Stable) |
 | **תאימות מערכת** | אנדרואיד 8.0 (Oreo / API 26) ומעלה (כולל Android 12, 13, 14, 15) |
 | **תמיכה במכשירים** | סמסונג, שיאומי (MIUI / HyperOS), רדמי, פוקו, גוגל פיקסל, מוטורולה ועוד |
-| **קישור ישיר להורדה** | 👉 **[לחצו כאן להורדת GoldenCareLauncher.apk](https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk)** |
+| **קישור ישיר להורדה** | 👉 **[לחצו כאן להורדת GoldenCareLauncher.apk](https://github.com/Hero-Ghost/GoldenCare-Launcher-Releases/releases/latest/download/GoldenCareLauncher.apk)** |
 | **קובץ בדיקת עדכונים** | [version.json](https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/version.json) |
 
 > [!TIP]
@@ -43,7 +46,7 @@
 
 1. **הורדת ה-APK:**  
    פתחו את הדפדפן בטלפון (למשל Chrome), לחצו על קישור ההורדה:  
-   👉 **[GoldenCareLauncher.apk](https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk)**
+   👉 **[GoldenCareLauncher.apk](https://github.com/Hero-Ghost/GoldenCare-Launcher-Releases/releases/latest/download/GoldenCareLauncher.apk)**
 2. **אישור הורדה בדפדפן:**  
    אם מופיעה אזהרה: *"הקובץ עשוי להזיק"* — לחצו על **"הורד בכל מקרה"** (Download anyway).
 3. **התקנת האפליקציה:**  
