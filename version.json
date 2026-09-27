@@ -1,9 +1,9 @@
 {
-  "version_code": 19,
-  "version_name": "1.3.1",
+  "version_code": 20,
+  "version_name": "1.3.2",
   "apk_url": "https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk",
-  "apk_sha256": "b6f5280a23ce1e2c1ddd82134a5f7b2d7c612175716c4a8ee44147afdb69e2ef",
-  "release_notes": "תיקון מסך שיחה נכנסת, חסימת סיבוב מסך בזמן שיחה, ואשף הגדרות והרשאות מוגבלות לאנדרואיד 13+",
+  "apk_sha256": "f86f1f37a6081f8c7c144395cefc4ac6fcd5acf3587d38c523f917bd5b53b2f7",
+  "release_notes": "תיקון בעיית כפילות הצלצול בשיחה נכנסת (סנכרון מלא עם מערכת ההפעלה ומניעת ניגון כפול במקביל)",
   "is_killed": false,
   "kill_message": "התוכנה נחסמה על ידי המפתח, תודה רבה למי שהשתמש",
   "licensing": {
