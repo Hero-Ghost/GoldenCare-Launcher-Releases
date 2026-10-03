@@ -1,9 +1,9 @@
 {
-  "version_code": 20,
-  "version_name": "1.3.2",
+  "version_code": 21,
+  "version_name": "1.3.3",
   "apk_url": "https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk",
-  "apk_sha256": "f86f1f37a6081f8c7c144395cefc4ac6fcd5acf3587d38c523f917bd5b53b2f7",
-  "release_notes": "תיקון בעיית כפילות הצלצול בשיחה נכנסת (סנכרון מלא עם מערכת ההפעלה ומניעת ניגון כפול במקביל)",
+  "apk_sha256": "ef09a4d567bdef0544731ee371bed67b69ce7657a155986a09a82cc2dc0057e4",
+  "release_notes": "הוספת צלצול אופציונלי מובנה: באבא כרם (שיר פרסי קצבי לשיחות נכנסות עם השמעת דוגמה בהגדרות מנהל)",
   "is_killed": false,
   "kill_message": "התוכנה נחסמה על ידי המפתח, תודה רבה למי שהשתמש",
   "licensing": {
