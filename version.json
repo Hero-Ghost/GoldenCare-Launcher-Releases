@@ -1,9 +1,9 @@
 {
-  "version_code": 24,
-  "version_name": "1.3.6",
+  "version_code": 25,
+  "version_name": "1.3.7",
   "apk_url": "https://raw.githubusercontent.com/Hero-Ghost/GoldenCare-Launcher-Releases/main/GoldenCareLauncher.apk",
-  "apk_sha256": "15a0210015a786947c2ca15a8a01320bf2def0159f3efe54592709c1b354a1d5",
-  "release_notes": "עדכון גרסה 1.3.6: קובץ הצלצול 7777 הוטמע כצלצול ראשי כברירת מחדל, תפריט בחירת צלצולים ייעודי בהגדרות מנהל עם אפשרויות בחירה (7777, ברירת מחדל של המכשיר, או קובץ מותאם) והשמעת דוגמה.",
+  "apk_sha256": "c93d9f83122e1ca572df86ba99b708d7fd8125ec71e8a6d8a2daea996f33ec7b",
+  "release_notes": "עדכון גרסה 1.3.7: הוספת ערוצי טלוויזיה ישירים (ערוץ 12, ערוץ 14 וערוץ 24) כאפליקציות נפרדות הניתנות להצמדה למסך הבית, נגן שידור חי עם כפתור 'חזור' ענק וקבוע בחלק העליון, ושמירת הגדרות מלאה בין עדכונים.",
   "is_killed": false,
   "kill_message": "התוכנה נחסמה על ידי המפתח, תודה רבה למי שהשתמש",
   "licensing": {
